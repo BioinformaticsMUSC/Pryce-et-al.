@@ -14,7 +14,7 @@ Pre-print URL:
 ## Access the data with an app:
 
 Here a webapp to analyze the data: 
-[Pryce etal SingleCell Mouse KPP Negative]([https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Mouse_KPP_Negative/])
+[Pryce etal SingleCell Mouse KPP Negative](https://bioinformatics-musc.shinyapps.io/Pryce-et-al_SingleCell_Mouse_KPP_Negative/)
 
 ## Files
 
