@@ -31,4 +31,4 @@ Here a webapp to analyze the data:
 | [`output_DGE`](KPP_MouseData_Analysis/output_DGE/) | Output of Differential gene expression for Positive and Negative data | 10_DGE.R |
 | [`output_Figure_Positive`](KPP_MouseData_Analysis/output_Figure_Positive/) | Output data of final figures and FAPs subset analysis. | 11_Final_Figuers_Positive.R|
 | [`output_Figure_Negative`](KPP_MouseData_Analysis/output_Figure_Negative/) | Output data of final figures and Macrophage subset analysis. | 11_Final_Figuers_Negative.R|
-| [`shinyApp`](KPP_MouseData_Analysis/shinyApp/) | Output of the ShinyApp. | 13_PreprocessForShiny_Positive.R \ 14_ShinyApp_Positive.R \ 15_PreprocessForShiny_Negative.R \ 16_ShinyApp_Negative.R |
+| [`shinyApp`](KPP_MouseData_Analysis/ShinyApp/) | Output of the ShinyApp. | 13_PreprocessForShiny_Positive.R \ 14_ShinyApp_Positive.R \ 15_PreprocessForShiny_Negative.R \ 16_ShinyApp_Negative.R |
