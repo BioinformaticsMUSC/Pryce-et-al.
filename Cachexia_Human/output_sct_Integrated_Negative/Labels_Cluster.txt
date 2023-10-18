@@ -1,0 +1,15 @@
+seurat_clusters	Cell
+0	FAPs
+1	Skeletal_1
+2	FAPs
+3	Skeletal_2
+4	Endothelial
+5	Pericytes
+6	Erythroblast
+7	Skeletal_2
+8	Endothelial
+9	Endothelial
+10	NK_Cells
+11	MuSCs
+12	LECs
+13	Skeletal_3
