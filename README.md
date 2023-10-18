@@ -35,13 +35,13 @@ Here a webapp to analyze the data:
 
 | directory | contents | code |
 | --------- | -------- | -------- |
-| [`Cachexia_Human_Analysis`](Cachexia_Human_Analysis/) | Code and Figuers for Mouse Cachexia_Human Data | |
-| [`Cachexia_Human-output_Positive`](Cachexia_Human_Analysis/output_sct_Integrated_Positive) | Output data of the initial clustering and integration of Positive Dataset - CtrlPos and Cachexia_HumanPos | 01_Seurat_Clustering_Positive.R \ 03_Doubletting_Positive.R \ 05_FindMarkers_Positive.R \ 07_CellCycleScoring.R|
-| [`Cachexia_Human-output_relabel_Positive`](Cachexia_Human_Analysis/output_Relabel_Positive/) | Output data of Cell annotation | 08_Relable_Positive.R| 
-| [`Cachexia_Human-output_Negative`](Cachexia_Human_Analysis/output_sct_Integrated_Negative) | Output data of the initial clustering and integration of Negative Dataset - CtrlNeg and Cachexia_HumanNeg | 02_Seurat_Clustering_Negative.R \ 04_Doubletting_Negative.R \ 06_FindMarkers_Negative.R \ 07_CellCycleScoring.R|
-| [`Cachexia_Human-output_relabel_Negative`](Cachexia_Human_Analysis/output_Relabel_Negative/) | Output data of Cell annotation | 09_Relable_Negative.R|
-| [`Cachexia_Human-output_DGE`](Cachexia_Human_Analysis/output_DGE/) | Output of Differential gene expression for Positive and Negative data | 10_DGE.R |
-| [`Cachexia_Human-output_Figure_Positive`](Cachexia_Human_Analysis/output_Figure_Positive/) | Output data of final figures and FAPs subset analysis. | 11_Final_Figuers_Positive.R|
-| [`Cachexia_Human-output_Figure_Negative`](Cachexia_Human_Analysis/output_Figure_Negative/) | Output data of final figures and Macrophage subset analysis. | 11_Final_Figuers_Negative.R|
-| [`Cachexia_Human-shinyApp`](Cachexia_Human_Analysis/ShinyApp/) | Output of the ShinyApp. | 13_PreprocessForShiny_Positive.R\ 14_ShinyApp_Positive.R\ 15_PreprocessForShiny_Negative.R \ 16_ShinyApp_Negative.R |
+| [`Cachexia_Human`](Cachexia_Human/) | Code and Figuers for Mouse Cachexia_Human Data | |
+| [`Cachexia_Human-output_Positive`](Cachexia_Human/output_sct_Integrated_Positive) | Output data of the initial clustering and integration of Positive Dataset - CtrlPos and Cachexia_HumanPos | 01_Seurat_Clustering_Positive.R \ 03_Doubletting_Positive.R \ 05_FindMarkers_Positive.R \ 07_CellCycleScoring.R|
+| [`Cachexia_Human-output_relabel_Positive`](Cachexia_Human/output_Relabel_Positive/) | Output data of Cell annotation | 08_Relable_Positive.R| 
+| [`Cachexia_Human-output_Negative`](Cachexia_Human/output_sct_Integrated_Negative) | Output data of the initial clustering and integration of Negative Dataset - CtrlNeg and Cachexia_HumanNeg | 02_Seurat_Clustering_Negative.R \ 04_Doubletting_Negative.R \ 06_FindMarkers_Negative.R \ 07_CellCycleScoring.R|
+| [`Cachexia_Human-output_relabel_Negative`](Cachexia_Human/output_Relabel_Negative/) | Output data of Cell annotation | 09_Relable_Negative.R|
+| [`Cachexia_Human-output_DGE`](Cachexia_Human/output_DGE/) | Output of Differential gene expression for Positive and Negative data | 10_DGE.R |
+| [`Cachexia_Human-output_Figure_Positive`](Cachexia_Human/output_Figure_Positive/) | Output data of final figures and FAPs subset analysis. | 11_Final_Figuers_Positive.R|
+| [`Cachexia_Human-output_Figure_Negative`](Cachexia_Human/output_Figure_Negative/) | Output data of final figures and Macrophage subset analysis. | 11_Final_Figuers_Negative.R|
+| [`Cachexia_Human-shinyApp`](Cachexia_Human/ShinyApp/) | Output of the ShinyApp. | 13_PreprocessForShiny_Positive.R\ 14_ShinyApp_Positive.R\ 15_PreprocessForShiny_Negative.R \ 16_ShinyApp_Negative.R |
 
