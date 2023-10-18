@@ -47,5 +47,5 @@ Here a webapp to analyze the data:
 | [`Cachexia_Human-output_DGE`](Cachexia_Human/output_DGE/) | Output of Differential gene expression for Positive and Negative data | 11_DGE_Negative.R \ 12_DGE_Positive.R |
 | [`Cachexia_Human-output_Figure_Negative`](Cachexia_Human/output_Figure_Negative/) | Output data of final figures and Macrophage subset analysis. | 13_Negative_FinalPlots.R|
 | [`Cachexia_Human-output_Figure_Positive`](Cachexia_Human/output_Figure_Positive/) | Output data of final figures and FAPs subset analysis. | 14_Positive_FinalPlots.R|
-| [`Cachexia_Human-shinyApp`](Cachexia_Human/ShinyApp/) | Output of the ShinyApp. | 15_PreprocessForShiny_Negative.R\ 15_ShinyApp_Negative.R\ 16_PreprocessForShiny_Positive.R \ 16_ShinyApp_Positive.R |
+| [`Cachexia_Human-shinyApp`](Cachexia_Human/output_Shiny/) | Output of the ShinyApp. | 15_PreprocessForShiny_Negative.R\ 15_ShinyApp_Negative.R\ 16_PreprocessForShiny_Positive.R \ 16_ShinyApp_Positive.R |
 
