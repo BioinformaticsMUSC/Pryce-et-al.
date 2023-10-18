@@ -1,0 +1,16 @@
+seurat_clusters	Cell
+0	Neutrophils
+1	Neutrophils
+2	T_Cells
+3	Macrophage
+4	Endothelial
+5	T_Cells
+6	Macrophage
+7	Pericytes
+8	Mastcells
+9	FAPs
+10	Skeletal
+11	Macrophage
+12	Macrophage
+13	Macrophage
+14	Erythroblast
