@@ -1,4 +1,4 @@
-# Pryce-et-al.
+# Cachexia Single Cell Omics
 scRNAseq Data Analysis Code
 Muscle Inflammation is Regulated by NF-kB From Multiple Cells to
 Control Distinct States of Wasting in Cancer Cachexia
